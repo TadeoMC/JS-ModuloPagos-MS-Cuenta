@@ -1,1 +1,1 @@
-# JS-ModuloPagos-MS-Cuenta
+# JS-PaymentsModule-Transactions
